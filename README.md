@@ -41,7 +41,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Ayush-70041&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Ayush-70041&locale=en&mode=daily&theme=vision-friendly-dark&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
@@ -56,6 +56,10 @@
   </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/Ayush-70041/Ayush-70041/output/snake.svg" alt="Snake animation" />
 
 ###
 
