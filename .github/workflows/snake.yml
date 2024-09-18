@@ -1,0 +1,23 @@
+name: Snake
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  update-snake:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Generate snake
+        uses: platane/snk@v2.0.1
+        with:
+          github_user: Ayush-70041
+          svg_out_path: ./output/snake.svg
+          html_out_path: ./output/snake.html
