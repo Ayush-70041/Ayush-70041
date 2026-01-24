@@ -2,11 +2,11 @@
 
 ###
 
-<h3 align="center">A passionate full stack web developer from India.</h3>
+<h3 align="center">A passionate Full Stack Web Developer & Manual QA Tester from India.</h3>
 
 ###
 
-<p align="left">🔭 I’m focusing on building web applications.<br>📚 I'm currently learning about machine learning and data science to enhance my skills.<br>⚡ In my free time, I enjoy playing chess, watching sci-fi movies, and painting.</p>
+<p align="left">🔭 I’m focusing on building web applications.<br>🧪 I also work as a <b>Manual QA Tester</b>, experienced in test case writing, defect reporting, regression testing, and functional testing.<br>📚 I'm currently learning about machine learning and data science to enhance my skills.<br>⚡ In my free time, I enjoy playing chess, watching sci-fi movies, and painting.</p>
 
 ###
 
